@@ -1,22 +1,20 @@
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
-        Arrays.sort(people);
+        Arrays.sort(people); // sort array
+        int n = people.length;
+        int i = 0;         // lightest person
+        int j = n - 1;     // heaviest person
+        int boats = 0;
 
-        int left=0;
-        int right=people.length-1;
-        int count=0;
-
-        while(left<=right){
-            if(people[left]+people[right] > limit){
-                right--; // sum > limiit then heaviest go alone 
+        while (i <= j) {
+            if (people[i] + people[j] <= limit) {
+                i++; // pair lightest with heaviest 
             }
-            else{ // sum < limiit then both can share a boat
-                left++;
-                right--;
-            }
-            count++;
+            j--;     // heaviest always goes
+            boats++; // one boat used
         }
-        return count;
+
+        return boats;
     }
 }
 
