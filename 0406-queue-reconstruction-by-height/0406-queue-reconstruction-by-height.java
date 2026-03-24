@@ -1,39 +1,22 @@
 class Solution {
     public int[][] reconstructQueue(int[][] people) {
-        
-        int n = people.length;
-        
-        // Sort: taller first, if height same then smaller k first
-        Arrays.sort(people, (a, b) -> {
-            if (a[0] != b[0]) {
-                return a[0] - b[0];
-            } else {
-                return a[1] - b[1];
-            }
+        Arrays.sort(people,(a,b) -> {
+           if(a[0]!=b[0]){
+            return b[0]-a[0];
+           } 
+           return a[1]-b[1];
         });
-        
-        // Initialize ans with [-1, -1] for all positions
-        int[][] ans = new int[n][2];
-        for (int i = 0; i < n; i++) {
-            ans[i][0] = -1;
-            ans[i][1] = -1;
+        List<int[]> queue=new ArrayList<>();
+        for(int[] i:people){
+            queue.add(i[1],i);
         }
-        
-        for (int i = 0; i < n; i++) {
-            int count = people[i][1];
-            
-            for (int j = 0; j < n; j++) {
-                if (ans[j][0] == -1 && count == 0) {
-                    ans[j][0] = people[i][0];
-                    ans[j][1] = people[i][1];
-                    break;
-                } 
-                else if (ans[j][0] == -1 || ans[j][0] >= people[i][0]) {
-                    count--;
-                }
-            }
-        }
-        
-        return ans;
+        return queue.toArray(new int[queue.size()][]);
     }
 }
+
+// Summary (Ek line mein):
+
+// Sabse pehle sab logon ko tallest → shortest sort karo.
+// Ek empty list lo.
+// Har person ko uske k value ke index par insert karte jao.
+// Kyunki taller log pehle insert hue hain, chhote log insert karte time automatically sahi position par aa jaate hain.
