@@ -6,6 +6,7 @@
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
+| [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+## Number Theory
+|  |
+| ------- |
+| [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->
