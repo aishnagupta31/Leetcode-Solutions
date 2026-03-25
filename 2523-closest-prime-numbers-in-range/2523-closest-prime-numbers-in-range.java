@@ -1,36 +1,36 @@
 class Solution {
-    public boolean isPrime(int n) {
-        if (n < 2) return false;
-
-        for (int i = 2; i * i <= n; i++) {
-            if (n % i == 0) {
+    public int[] closestPrimes(int left, int right) {
+        int prev=-1;
+        int[] result= {-1,-1};       
+        int minDiff = Integer.MAX_VALUE;
+        for(int i = left; i<= right; i++){
+            if(isPrimeNum(i)){
+                if(prev != -1){
+                    int diff = i - prev;
+                    if(diff < minDiff){
+                        minDiff = diff;
+                        result[0] = prev;
+                        result[1] = i;
+                    }
+                    //Early eixt
+                    if(diff == 2){
+                        return result;
+                    }
+                }
+                prev = i;
+            }
+        }
+        return result;
+    }
+     public static boolean isPrimeNum(int n){
+        if(n <= 1) return false;
+        if(n ==2) return true;
+        if(n%2 ==0) return false;
+        for(int i = 3; i*i <= n; i+=2){
+            if(n%i ==0){
                 return false;
             }
         }
         return true;
-    }
-
-    public int[] closestPrimes(int left, int right) {
-        int[] res = {-1, -1};
-
-        int prevPrime = -1;
-        int minDiff = Integer.MAX_VALUE;
-
-        for (int i = left; i <= right; i++) {
-            if (isPrime(i)) {
-                if (prevPrime != -1) {
-                    int diff = i - prevPrime;
-
-                    if (diff < minDiff) {
-                        minDiff = diff;
-                        res[0] = prevPrime;
-                        res[1] = i;
-                    }
-                }
-                prevPrime = i;
-            }
-        }
-
-        return res;
     }
 }
