@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -98,4 +99,16 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
