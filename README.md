@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2523-closest-prime-numbers-in-range](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -58,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
