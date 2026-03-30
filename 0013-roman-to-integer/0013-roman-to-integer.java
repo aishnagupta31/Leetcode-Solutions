@@ -9,23 +9,15 @@ class Solution {
         map.put('D', 500);
         map.put('M', 1000);
 
-        int n = s.length();
         int sum = 0;
 
-        for (int i = 0; i < n; i++) {
-            char ch1 = s.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            int curr = map.get(s.charAt(i));
 
-            if (i + 1 < n) {
-                char ch2 = s.charAt(i + 1);
-
-                if (map.get(ch1) < map.get(ch2)) {
-                    sum += map.get(ch2) - map.get(ch1);
-                    i++;
-                } else {
-                    sum += map.get(ch1);
-                }
+            if (i + 1 < s.length() && curr < map.get(s.charAt(i + 1))) {
+                sum -= curr;
             } else {
-                sum += map.get(ch1);
+                sum += curr;
             }
         }
 
