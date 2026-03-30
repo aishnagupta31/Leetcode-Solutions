@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -59,6 +60,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
