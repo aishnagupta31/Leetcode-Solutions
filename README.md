@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -20,12 +21,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -71,6 +74,7 @@
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
