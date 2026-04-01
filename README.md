@@ -12,6 +12,7 @@
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
@@ -66,6 +68,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## String
 |  |
@@ -88,9 +91,11 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
