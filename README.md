@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0162-find-peak-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -161,6 +162,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
