@@ -135,15 +135,18 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0993-cousins-in-binary-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0993-cousins-in-binary-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -190,4 +193,8 @@
 | ------- |
 | [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
