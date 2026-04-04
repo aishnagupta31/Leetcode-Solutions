@@ -91,6 +91,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Matrix
 |  |
 | ------- |
