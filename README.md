@@ -23,6 +23,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
 ## Hash Table
 |  |
@@ -118,6 +120,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -144,6 +147,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
