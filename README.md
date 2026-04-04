@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0406-queue-reconstruction-by-height](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
