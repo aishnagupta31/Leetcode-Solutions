@@ -1,60 +1,50 @@
 class Solution {
+    List<String> res = new ArrayList<>();
     int n;
-    List<String> res;
 
-    public boolean isValid(String str) {
-        // Leading zero check
-        if (str.charAt(0) == '0') return false;
-
-        int num = Integer.parseInt(str);
-        return num >= 0 && num <= 255;
+    public boolean isValid(String part) {
+        if (part.length() > 1 && part.charAt(0) == '0') return false;
+        int num = Integer.parseInt(part);
+        return num <= 255;
     }
 
-    public void solve(int ind, String s, int parts, String curr) {
-        // Base case: exactly 4 parts and string completely used
+    public void solve(int ind, String s, int parts, StringBuilder sb) {
         if (ind == n && parts == 4) {
-            res.add(curr.substring(0, curr.length() - 1)); // remove last dot
+            res.add(sb.substring(0, sb.length() - 1)); // remove last dot in answer
             return;
         }
 
-        // Invalid case: more than 4 parts or string ended early
-        if (parts > 4) return;
+        if (parts >= 4) return;
 
-        // Take 1 digit
-        if (ind + 1 <= n) {
-            solve(ind + 1, s, parts + 1, curr + s.substring(ind, ind + 1) + ".");
-        }
+        for (int len = 1; len <= 3; len++) {
+            if (ind + len <= n) {
+                String part = s.substring(ind, ind + len);
 
-        // Take 2 digits
-        if (ind + 2 <= n) {
-            String part = s.substring(ind, ind + 2);
-            if (isValid(part)) {
-                solve(ind + 2, s, parts + 1, curr + part + ".");
-            }
-        }
+                if (isValid(part)) {
+                    int oldLen = sb.length();   // save old state
 
-        // Take 3 digits
-        if (ind + 3 <= n) {
-            String part = s.substring(ind, ind + 3);
-            if (isValid(part)) {
-                solve(ind + 3, s, parts + 1, curr + part + ".");
+                    sb.append(part);
+                    sb.append(".");
+
+                    solve(ind + len, s, parts + 1, sb);
+
+                    sb.setLength(oldLen);   // BACKTRACK (undo)
+                }
             }
         }
     }
 
     public List<String> restoreIpAddresses(String s) {
         n = s.length();
-        res = new ArrayList<>();
-
-        // IP address can have minimum 4 digits and maximum 12 digits
         if (n < 4 || n > 12) return res;
 
-        solve(0, s, 0, "");
+        solve(0, s, 0, new StringBuilder());
         return res;
     }
 }
-// why backtracking step is not visible ? 
 
-// Tumhare current code me:
+// why in stringbuilder backtracking step is visible?
 
-// curr me se string manually remove nahi hoti, because har recursive call ko ek nayi string milti hai (curr + part + "."), aur jab call return hota hai to child wali string destroy ho jaati hai. Parent wali curr waise hi rehti hai.
+// Because StringBuilder mutable hota hai, aur same object sab recursive calls share karte hain.
+// Isliye jab ek call append() karta hai, woh change parent + child dono ko same object me dikh raha hota hai — so return ke baad hume undo karna padta hai (setLength(oldLen) / delete(...)).
+// Isi undo step ko hi tum visible backtracking bol rahi ho 👀✨
