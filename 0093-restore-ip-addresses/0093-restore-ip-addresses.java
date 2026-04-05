@@ -53,3 +53,8 @@ class Solution {
         return res;
     }
 }
+// why backtracking step is not visible ? 
+
+// Tumhare current code me:
+
+// curr me se string manually remove nahi hoti, because har recursive call ko ek nayi string milti hai (curr + part + "."), aur jab call return hota hai to child wali string destroy ho jaati hai. Parent wali curr waise hi rehti hai.
