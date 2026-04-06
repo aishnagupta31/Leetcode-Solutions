@@ -24,3 +24,6 @@ class Solution {
         return max;
     }
 }
+
+// Left to right pass handles extra closing brackets )
+// Right to left pass handles extra opening brackets (
