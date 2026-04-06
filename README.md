@@ -17,6 +17,7 @@
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
@@ -28,6 +29,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -129,11 +131,13 @@
 | [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Tree
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
