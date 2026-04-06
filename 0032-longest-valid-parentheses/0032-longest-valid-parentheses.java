@@ -1,30 +1,26 @@
 class Solution {
     public int longestValidParentheses(String s) {
-        int n = s.length();
-        int index = -1;
-        Stack<Integer> stack = new Stack<>();
-        int ans = 0;
-
-        for(int i=0; i<n; i++){
-            if(s.charAt(i) =='('){
-                stack.push(i);
+        if(s==null) return 0;
+        int  max=0,open=0,close=0;
+        for(char c:s.toCharArray()){
+            if(c=='(') open++;
+            else close++;
+            if(open==close){
+                int len=open+close;
+                max=Math.max(max,len);
             }
-            else {
-                if(!stack.isEmpty()){
-                    stack.pop();
-                    if(!stack.isEmpty()){
-                        ans = Math.max(ans, i-stack.peek());
-                    }else{
-                        ans = Math.max(ans,i-index);
-                    }
-                }else{
-                    index = i;
-                }
-            }
+            else if(close> open) open=close=0;
         }
-        return ans;
+        open=close=0;
+        for(int i=s.length()-1;i>=0;i--){
+            if(s.charAt(i)=='(') open++;
+            else close++;
+            if(open==close){
+                int len=open+close;
+                max=Math.max(max,len);
+            }
+            else if(open> close) open=close=0;
+        }
+        return max;
     }
 }
-
-
-// https://chatgpt.com/c/69d41d3e-f380-83a8-a875-dc28b37a9282
