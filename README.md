@@ -16,6 +16,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
@@ -215,6 +217,7 @@
 | [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,4 +226,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
