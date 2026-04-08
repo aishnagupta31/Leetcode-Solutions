@@ -5,36 +5,31 @@ class Solution {
         if (root == null) return res;
         
         Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
+        q.offer(root);
         
-        boolean reverse = false;
-
+        boolean leftToRight = true;
+        
         while (!q.isEmpty()) {
             int size = q.size();
-            List<Integer> arr = new ArrayList<>();
-
+            LinkedList<Integer> level = new LinkedList<>();
+            
             for (int i = 0; i < size; i++) {
-                TreeNode current = q.poll();
-                arr.add(current.val);
-
-                if (current.left != null) {
-                    q.add(current.left);
+                TreeNode node = q.poll();
+                
+                if (leftToRight) {
+                    level.addLast(node.val);
+                } else {
+                    level.addFirst(node.val);
                 }
-
-                if (current.right != null) {
-                    q.add(current.right);
-                }
+                
+                if (node.left != null) q.offer(node.left);
+                if (node.right != null) q.offer(node.right);
             }
-
-            if (reverse) {
-                Collections.reverse(arr);
-            }
-
-            res.add(arr);
-
-            reverse = !reverse; // toggle for next level
+            
+            res.add(level);
+            leftToRight = !leftToRight;
         }
-
+        
         return res;
     }
 }
