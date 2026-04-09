@@ -77,6 +77,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
 ## Hash Table
@@ -175,6 +176,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
