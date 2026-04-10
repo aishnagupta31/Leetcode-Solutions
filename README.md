@@ -93,6 +93,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -111,6 +112,7 @@
 | [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
