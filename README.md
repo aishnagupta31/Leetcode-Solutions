@@ -115,6 +115,7 @@
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -239,6 +240,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1092-shortest-common-supersequence](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Depth-First Search
 |  |
