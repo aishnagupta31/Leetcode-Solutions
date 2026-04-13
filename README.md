@@ -23,6 +23,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
