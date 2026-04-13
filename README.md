@@ -27,6 +27,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
