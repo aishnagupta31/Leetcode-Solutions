@@ -27,6 +27,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -127,6 +128,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Counting
 |  |
@@ -146,11 +148,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -275,8 +279,10 @@
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
