@@ -15,6 +15,7 @@
 | [0322-coin-change](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -252,6 +254,7 @@
 | [0213-house-robber-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1092-shortest-common-supersequence](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
