@@ -114,6 +114,7 @@
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0322-coin-change) |
