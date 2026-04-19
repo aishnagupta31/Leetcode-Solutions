@@ -34,6 +34,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
