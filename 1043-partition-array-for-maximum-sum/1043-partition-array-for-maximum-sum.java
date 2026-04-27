@@ -1,30 +1,26 @@
 class Solution {
     public int maxSumAfterPartitioning(int[] arr, int k) {
-        int[] dp = new int[arr.length];
-        Arrays.fill(dp, -1);  // mark all as uncomputed
-        return solve(0, arr, k, dp);
-    }
+        int n = arr.length;
+        int[] dp = new int[n + 1]; // dp[n] = 0 by default
 
-    private int solve(int i, int[] arr, int k, int[] dp) {
-        // Base case
-        if (i == arr.length) return 0;
+        // Fill from right to left
+        for (int i = n - 1; i >= 0; i--) {
+            int max = 0;
+            int best = 0;
+            int len = 0;
 
-        // Memo check
-        if (dp[i] != -1) return dp[i];
+            // Try all partition sizes
+            for (int j = i; j < n && j < i + k; j++) {
+                max = Math.max(max, arr[j]);
+                len++;
 
-        int max = 0;
-        int best = 0;
-        int len = 0;
+                int sum = max * len + dp[j + 1];
+                best = Math.max(best, sum);
+            }
 
-        // Try all partition sizes
-        for (int j = i; j < arr.length && j < i + k; j++) {
-            max = Math.max(max, arr[j]);
-            len++;
-
-            int sum = max * len + solve(j + 1, arr, k, dp);
-            best = Math.max(best, sum);
+            dp[i] = best;
         }
 
-        return dp[i] = best;
+        return dp[0];
     }
 }
