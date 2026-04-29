@@ -140,6 +140,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0132-palindrome-partitioning-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -283,6 +284,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0132-palindrome-partitioning-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0322-coin-change) |
