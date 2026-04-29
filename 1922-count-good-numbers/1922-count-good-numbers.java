@@ -11,16 +11,17 @@ class Solution {
         return (int)((evenWays * oddWays) % MOD);
     }
 
-    // Fast exponentiation
     public long power(long base, long exp) {
-        long result = 1;
+        // Base case
+        if (exp == 0) return 1;
 
-        while (exp > 0) {
-            if ((exp & 1) == 1) { // if odd
-                result = (result * base) % MOD;
-            }
-            base = (base * base) % MOD;
-            exp = exp >> 1; // divide by 2
+        long half = power(base, exp / 2);
+
+        long result = (half * half) % MOD;
+
+        // If exponent is odd
+        if (exp % 2 == 1) {
+            result = (result * base) % MOD;
         }
 
         return result;
