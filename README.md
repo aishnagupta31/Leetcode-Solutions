@@ -26,6 +26,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -295,6 +297,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Depth-First Search
