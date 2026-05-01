@@ -162,6 +162,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Counting
 |  |
@@ -252,6 +253,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
