@@ -24,6 +24,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0932-beautiful-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -92,6 +93,7 @@
 | [0013-roman-to-integer](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0932-beautiful-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0932-beautiful-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 ## Merge Sort
 |  |
 | ------- |
