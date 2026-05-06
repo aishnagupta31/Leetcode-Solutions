@@ -39,6 +39,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
@@ -229,6 +230,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0993-cousins-in-binary-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
@@ -298,6 +301,7 @@
 | [0037-sudoku-solver](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -322,6 +326,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
