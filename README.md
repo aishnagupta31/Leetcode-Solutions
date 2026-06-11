@@ -39,6 +39,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2553-separate-the-digits-in-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
