@@ -1,27 +1,40 @@
 class Solution {
-    ArrayList<Integer> ans = new ArrayList<>();
 
-    public void separate(int num) {
-        ArrayList<Integer> temp = new ArrayList<>();
+    public int countDigits(int num) {
+        if (num == 0) return 1;
 
+        int count = 0;
         while (num > 0) {
-            temp.add(num % 10);
-            num = num / 10;
+            count++;
+            num /= 10;
         }
-
-        Collections.reverse(temp);
-
-        ans.addAll(temp);
+        return count;
     }
 
     public int[] separateDigits(int[] nums) {
+
+        int size = 0;
         for (int num : nums) {
-            separate(num);
+            size += countDigits(num);
         }
 
-        int[] res = new int[ans.size()];
-        for (int i = 0; i < ans.size(); i++) {
-            res[i] = ans.get(i);
+        int[] res = new int[size];
+
+        int idx = 0;
+
+        for (int num : nums) {
+
+            int digits = countDigits(num);
+            int[] temp = new int[digits];
+
+            for (int i = digits - 1; i >= 0; i--) {
+                temp[i] = num % 10;
+                num /= 10;
+            }
+
+            for (int d : temp) {
+                res[idx++] = d;
+            }
         }
 
         return res;
