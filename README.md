@@ -38,6 +38,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1991-find-the-middle-index-in-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -284,6 +285,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
