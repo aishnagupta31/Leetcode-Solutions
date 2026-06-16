@@ -36,6 +36,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1991-find-the-middle-index-in-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
