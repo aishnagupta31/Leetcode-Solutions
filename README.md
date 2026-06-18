@@ -11,6 +11,7 @@
 | [0064-minimum-path-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -295,6 +296,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
