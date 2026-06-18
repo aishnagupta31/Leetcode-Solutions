@@ -44,6 +44,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
@@ -141,6 +142,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -301,6 +303,7 @@
 | [0078-subsets](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
