@@ -52,6 +52,7 @@
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -151,6 +152,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -183,6 +185,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Counting
@@ -205,6 +208,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
