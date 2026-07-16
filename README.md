@@ -89,6 +89,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0899-orderly-queue](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [1331-rank-transform-of-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1626-best-team-with-no-conflicts](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [2784-check-if-array-is-good](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -107,6 +108,7 @@
 | [0013-roman-to-integer](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0390-elimination-game](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0899-orderly-queue](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [0932-beautiful-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -174,6 +176,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0899-orderly-queue](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [1092-shortest-common-supersequence](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
