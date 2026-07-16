@@ -42,6 +42,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1991-find-the-middle-index-in-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -114,6 +115,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -185,6 +187,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2833-furthest-point-from-origin](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
@@ -329,6 +332,7 @@
 | [0037-sudoku-solver](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2596-check-knight-tour-configuration](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
