@@ -178,6 +178,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1544-make-the-string-great](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -224,6 +225,7 @@
 | [0234-palindrome-linked-list](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1544-make-the-string-great](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
