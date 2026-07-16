@@ -120,6 +120,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3618-split-array-by-prime-indices](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3618-split-array-by-prime-indices) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -195,6 +196,7 @@
 | [3019-number-of-changing-keys](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Counting
@@ -205,6 +207,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2833-furthest-point-from-origin](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aishnagupta31/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Number Theory
 |  |
 | ------- |
